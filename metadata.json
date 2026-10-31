@@ -1,0 +1,28 @@
+{
+  "bounty_id": "superteam-solana-agentic-grant",
+  "track": "Superteam Earn Solana Breakpoint Agentic Grant",
+  "project_name": "Solana Autonomous AI Agent",
+  "version": "1.0.0",
+  "candidate": {
+    "name": "Ojaswee Upadhyay",
+    "role": "Co-Founder & CTO @ NaviiGo",
+    "email": "ojaswee2095@gmail.com",
+    "portfolio": "https://ojaswee.vercel.app",
+    "github": "https://github.com/Ojas2095"
+  },
+  "tech_stack": ["SendAI Solana Agent Kit", "LangChain ReAct", "Solana Web3.js", "Pyth Network", "Jupiter v6", "TypeScript", "Vitest"],
+  "features": [
+    "Autonomous ReAct Multi-Turn Reasoning Loop",
+    "8+ Structured Tools (Balance, Transfer, Swap, Pyth Price Feed, Staking, Simulation)",
+    "Multi-Layer Safety Guardrails (Spend Caps, Key Shielding, Preflight Simulation)",
+    "Autonomous Workflows: Treasury Auto-Reserve & Portfolio Rebalancer"
+  ],
+  "test_results": {
+    "test_runner": "vitest",
+    "total_tests": 39,
+    "passed": 39,
+    "pass_rate": "100%"
+  },
+  "submission_status": "ready_for_live_entry",
+  "timestamp": "2026-10-31T16:40:00Z"
+}
